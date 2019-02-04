@@ -10,3 +10,5 @@ CPU使用率を10ポイントバーLED [OSX10201-GYR1]に表示するアプリ�
 
 ![](https://github.com/7m4mon/USB-IO2.0_TEST/raw/master/usbio_4.jpg)
 
+詳細は下記ページにあります。
+http://nomulabo.com/usb-io2/
